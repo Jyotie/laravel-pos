@@ -1,0 +1,36 @@
+@charset "utf-8";
+body{
+	font-size: 12px;
+}
+.pagesize{
+	height:842px;
+	width:595px;
+}
+.memoheader{
+	background-image: url(../images/memo_header.jpg);
+	width:595px;
+	height:142px;	
+}
+.box span9{
+	width:595px;
+}
+.row-fluid {
+  width: 100%;
+  *zoom: 1;
+}
+.box-content {
+	position: relative;
+	margin-top: -1px;
+	padding: 10px;
+	background: #fff !important;
+}
+.span12 {
+  width: 595px;
+}
+.span6 {
+  width: 300px;
+}
+h3 {
+	font-size: 15px;
+	line-height: 15px;
+}

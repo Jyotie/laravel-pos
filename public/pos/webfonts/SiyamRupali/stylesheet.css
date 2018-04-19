@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'SiyamRupali';
+	src: url('SiyamRupali.eot');
+	src: url('SiyamRupali.eot?#iefix') format('embedded-opentype'),
+		url('SiyamRupali.woff') format('woff'),
+		url('SiyamRupali.ttf') format('truetype'),
+		url('SolaimanLipi_29-05-06.svg') format('svg');
+}
